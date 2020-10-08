@@ -1,5 +1,6 @@
 .goodEats{
-    max-width:50%;
+    max-width: 50%;
+    border: 1px solid black;
 }
 
 .link{
@@ -12,19 +13,26 @@
 }
 
 a:hover{
-    color:rgb(255, 34, 34);
+    color:rgb(14, 11, 190);
 }
 
 .projects{
-    margin:120px;
     margin-top: 50px;
     color:rgb(0, 0, 0);
+    width: 60%;
+    float:center;
+    margin:auto;
 }
 
-h1{
+.h1{
+    float:center;
     padding-bottom: 30px;
-    font-style: italic;
-    
+    font-style: italic; 
+    width: 80%;
+}
+
+h2{
+    text-decoration: underline;
 }
 
 @media only screen and (max-width: 360px) {

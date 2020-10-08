@@ -8,7 +8,7 @@ const Projects = () => {
     return (
         <div>
             <div className='projects'>
-                <h1>Some of my projects</h1>
+                <h1 className="header">Some of my projects</h1>
                 <h2>First Fullstack Application - GoodEats Recipe Finder</h2>
                 <img className="goodEats" src={logo} alt="logo" />
                 <p>A fullstack application using the PERN (React.js, Node.js, PostgreSQL, Express) stack to create an app that lets you search for recipes by ingredient and also has the ability to record user recipes.  Tested with Jest, Supertest, and Enzyme.  This is an upgraded application from my Jquery one for the biggest foodies and uses a different recipe database then my previous one to make third party calls.</p>
