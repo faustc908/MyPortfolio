@@ -1,9 +1,13 @@
 .links {
     font-size: 30px;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 40px;
 }
 
 .heading {
     word-spacing: 38px;
+}
+
+.skills {
+    color:rgb(0, 0, 0);
 }

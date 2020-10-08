@@ -11,7 +11,7 @@ const Projects = () => {
                 <h1>Some of my projects</h1>
                 <h2>First Fullstack Application - GoodEats Recipe Finder</h2>
                 <img className="goodEats" src={logo} alt="logo" />
-                <p>A fullstack application using the PERN (React.js, Node.js, PostgreSQL, Express) stack to create an app that lets you search for recipes by ingredient and also has the ability to record user recipes.  Tested with Jest and Supertest.  This is an upgraded application from my Jquery one for the biggest foodies and uses a different recipe database then my previous one to make third party calls.</p>
+                <p>A fullstack application using the PERN (React.js, Node.js, PostgreSQL, Express) stack to create an app that lets you search for recipes by ingredient and also has the ability to record user recipes.  Tested with Jest, Supertest, and Enzyme.  This is an upgraded application from my Jquery one for the biggest foodies and uses a different recipe database then my previous one to make third party calls.</p>
                 <div>
                     <a className="link" href='https://good-eats-recipe-client.vercel.app/' target="_blank">Link to live app</a>
                     <a className="link" href='https://github.com/faustc908/GoodEats-Recipe-Client' target="_blank">Client repo for app</a>

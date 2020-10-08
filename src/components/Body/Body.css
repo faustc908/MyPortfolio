@@ -1,8 +1,13 @@
+
 .aboutme {
     padding-bottom: 30px;
-    margin: 110px;
+    margin-left: 200px;
+    margin-right: 200px;
     font-size: 19px;
+    float:left;
+    font-weight: bold;
 }
+
 
 @media only screen and (max-width: 360px) {
 

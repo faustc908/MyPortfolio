@@ -1,8 +1,9 @@
 .App {
   text-align: center;
-  font-family: "Courier New", Courier, monospace;
-  background-color: rgb(61, 61, 61);
-  color: white;
+  font-family: 'Open Sans', sans-serif;
+  background-color: rgb(226, 226, 226);;
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 
