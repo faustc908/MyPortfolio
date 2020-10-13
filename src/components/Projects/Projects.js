@@ -2,6 +2,7 @@ import React from 'react'
 import logo from "./GoodEats.png"
 import "./Projects.css"
 import logoTwo from "./GoodEats.jpg"
+import logoThree from "./ExpenseApp.png"
 
 
 const Projects = () => {
@@ -16,6 +17,17 @@ const Projects = () => {
                     <a className="link" href='https://good-eats-recipe-client.vercel.app/' target="_blank">Link to live app</a>
                     <a className="link" href='https://github.com/faustc908/GoodEats-Recipe-Client' target="_blank">Client repo for app</a>
                     <a className="link" href='https://github.com/faustc908/GoodEats-Recipe-Server' target="_blank">Server repo for app</a>
+                </div>
+            </div>
+
+            <div className='projects'>
+                <h2>Second Fullstack Application - ExpenseApp</h2>
+                <img className="goodEats" src={logoThree} alt="logo" />
+                <p>A fullstack application using the PERN (React.js, Node.js, PostgreSQL, Express) stack to create an app that lets you caculate your expenses as well as leave notes on different deals and nuances in expenditures.  Tested with Jest, Supertest, and Enzyme.  This app was developed with the financial hardship covid-19 has placed on people and should be a useful tool.</p>
+                <div>
+                    <a className="link" href='https://expense-app-client.vercel.app/' target="_blank">Link to live app</a>
+                    <a className="link" href='https://github.com/faustc908/ExpenseApp-Client' target="_blank">Client repo for app</a>
+                    <a className="link" href='https://github.com/faustc908/ExpenseApp-Server' target="_blank">Server repo for app</a>
                 </div>
             </div>
 
