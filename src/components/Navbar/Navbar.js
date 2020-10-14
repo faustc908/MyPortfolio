@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="navBar">
             <h1 className='left'>Colin Faust - Software Engineer</h1>
             <Link to="/project" className="projectLink1">Projects</Link>
-            <a className="projectLink2" href="https://my-portfolio-pink.vercel.app/">Home</a>
+            <a className="projectLink2" href="https://colin-faust-portfolio.vercel.app/">Home</a>
         </div>
     )
 }
