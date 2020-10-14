@@ -31,13 +31,16 @@
     font-style: italic;  
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (min-width: 375px) {
 .projectLink1 {
     font-size: 16px;
 }
 
 .projectLink2 {
     font-size: 16px;
+}
+.left{
+    font-size: 14px;
 }
 }
 
