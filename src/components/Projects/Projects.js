@@ -22,7 +22,7 @@ const Projects = () => {
 
             <div className='projects'>
                 <h2>Second Fullstack Application - ExpenseApp</h2>
-                <img className="goodEats" src={logoThree} alt="logo GoodEats recipe finer React.js/Node.js" />
+                <img className="goodEats" src={logoThree} alt="logo GoodEats recipe finder React.js/Node.js" />
                 <p>A fullstack application using the PERN (React.js, Node.js, PostgreSQL, Express) stack to create an app that lets you caculate your expenses as well as leave notes on different deals and nuances in expenditures.  Tested with Jest, Supertest, and Enzyme.  This app was developed with the financial hardship covid-19 has placed on people and should be a useful tool.</p>
                 <div>
                     <a className="link" href='https://expense-app-client.vercel.app/' target="_blank">Link to live app</a>
