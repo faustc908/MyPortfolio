@@ -6,7 +6,7 @@ const Body = () => {
         <div className="portBody">
             <div className='aboutme'>
                 <h1>A bit about me</h1>
-                <p>I'm a recent graduate from Thinkfuls data engineering bootcamp.  I'm passionate about programming and love to solve problems.  I'm not afraid of hard work or long hours.  I strive to improve on my skills and learn new ones.  When I'm not coding I am reading, meeting with friends, or playing online games.  Being a problem solver has inspired me to take up a new career path I'm more passionate about.  Ultimately my desire is to work on a team of great programmers.</p>
+                <p>I'm a recent graduate from Thinkfuls Data Engineering Bootcamp.  I'm passionate about programming and love to solve problems.  I'm not afraid of hard work or long hours.  I strive to improve my skills and learn new ones.  When I'm not coding I am reading, meeting with friends, or playing online games.  Being a problem solver has inspired me to take up a new career path I'm more passionate about.  Ultimately my desire is to work on a team of great programmers.</p>
             </div>
             <div className="aboutme">
                 <h1>Skills and experience</h1>
